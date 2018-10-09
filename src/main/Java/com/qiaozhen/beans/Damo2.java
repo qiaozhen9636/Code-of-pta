@@ -20,4 +20,8 @@ package com.qiaozhen.beans;
  */
 
 public class Damo2 {
+
+    public void output1(){
+        System.out.println("1");
+    }
 }
